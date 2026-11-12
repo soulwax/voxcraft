@@ -1,0 +1,11 @@
+name: voxcraft
+description: "Pure Dart factory production pipeline graphs, throughput-capped conveyor belt routers, DAG research tech trees, and elastic supply/demand dynamic markets."
+version: 0.1.0
+repository: https://github.com/soulwax/voxcraft
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
